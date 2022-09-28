@@ -1,0 +1,7 @@
+﻿  CYP01.cpp
+C:\Users\100039009\OneDrive\Escritorio\Programacion\CYP01\CYP01\CYP01.cpp(2,17): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\100039009\OneDrive\Escritorio\Programacion\CYP01\CYP01\CYP01.cpp(17,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\100039009\OneDrive\Escritorio\Programacion\CYP01\CYP01\CYP01.cpp(18,23): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\100039009\OneDrive\Escritorio\Programacion\CYP01\CYP01\CYP01.cpp(19,13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\100039009\OneDrive\Escritorio\Programacion\CYP01\CYP01\CYP01.cpp(20,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  CYP01.vcxproj -> C:\Users\100039009\OneDrive\Escritorio\Programacion\CYP01\x64\Debug\CYP01.exe
